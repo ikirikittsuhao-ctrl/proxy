@@ -1,0 +1,20 @@
+{
+  "name": "advanced-proxy-server",
+  "version": "1.0.0",
+  "description": "An advanced Node.js proxy server supporting streaming, range requests, and content rewriting.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "proxy",
+    "node",
+    "streaming",
+    "rewriter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
